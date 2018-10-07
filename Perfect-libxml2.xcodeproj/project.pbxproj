@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		02FC67C4216A16B8002DEF8B /* libxml2.h in Headers */ = {isa = PBXBuildFile; fileRef = 02FC67C3216A16B8002DEF8B /* libxml2.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		02FC67C9216A1704002DEF8B /* libxml2.2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 02FC67C8216A1704002DEF8B /* libxml2.2.tbd */; };
-		02FC67CE216A1C5B002DEF8B /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 02FC67CC216A1979002DEF8B /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -133,7 +132,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				02FC67CE216A1C5B002DEF8B /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
